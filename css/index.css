@@ -1,0 +1,279 @@
+body{
+    font-family:sans-serif;
+}
+.main_menu
+{
+    background-color:#f6f6f6;
+    padding-left:10%;
+    margin-top:4%;
+   
+  
+}
+.menu li
+{
+    list-style-type: none;
+    display:inline-block;
+    padding:20px;
+    position: relative;
+    
+}
+.sub
+.menu li > a
+{
+    font-size:17px;
+    font-family:sans-serif;
+  
+   
+}
+.menu li:hover
+{
+    background-color: grey;
+   
+}
+body
+{
+    /* background-color: #f6f6f6; */
+    margin: 0;
+}
+.logo
+{
+  float: left;
+  
+    padding-right: 20%;
+  padding-left:4%;
+   
+}
+.headline
+{
+text-align: center;
+font-size: 20px;
+background-color: black;
+color: white;
+padding: 20px;
+}
+
+footer
+{
+background-color: #000000;
+padding:20px;
+color: white;
+font-size: 20px;
+text-align: center;
+
+}   
+.email h3,.Address h3
+{
+
+font-style:normal;
+margin-bottom:5px;
+
+}
+.email span, .Address span{
+
+color: gray;
+}
+.email{
+margin-right:10%;
+}
+
+.apply_now
+{
+background-color:#00B16A;
+padding:10px 2%;
+font-size: 20px;
+color: white;
+border-radius:10px;
+border:none;
+position: absolute;
+left:10%;
+top:50%;
+}
+.detail
+{
+display: flex;
+margin-top:1%;
+}
+.slider
+{
+    position: relative;
+}
+.slider img{
+    opacity:0.8;
+}
+.slider h1{
+    position: absolute;
+    left:10%;
+    top:20%;
+    font-size:45px;
+    color:#0c0f0e;
+}
+.slider p{
+    position: absolute;
+    left:10%;
+    top:35%;
+    font-size:25px;
+    color:#1a1b1be1;
+}
+.education_div 
+{
+    text-align: center;
+    font-size: x-large;
+    color: black;
+    margin-top:5%;
+}
+
+.education_div span ,.course span
+{
+        color: #35bd84;
+        border-bottom: 2px double black;
+}
+.education_div p ,.course p
+{
+    text-align: center;
+  font-size:17px;
+  padding: 0 20%;
+    color: #666670;
+
+}
+.education_content
+{
+    display: flex;
+    margin:5%;
+    
+}
+.singlecontent p
+{
+    font-size:medium;
+    color: #666670;
+    
+}
+.container {
+    max-width: 1170px;
+}
+#edu_img:hover
+{
+    
+    height: 260;
+    opacity: 0.8;
+}
+.enroll_div
+{
+    position: relative;
+    
+}
+.enroll-form
+{
+    position:absolute;
+    width:400px;
+  
+    left: 10%;
+    top: 10%;
+}
+.form-title
+{
+    background-color: #00B16A;
+    padding:10px 10%;
+    border-top-left-radius: 3%;
+    border-top-right-radius: 3%;
+    color: whitesmoke;
+}
+.form
+{
+    background-color: white;
+    padding:10px 10%;
+    border-bottom-right-radius: 3%;
+    border-bottom-left-radius: 3%;
+}
+.form-group
+{
+    margin-bottom:10px;
+}
+.form-input
+{
+    padding:10px;
+    display: block;
+    border: none;
+    border-bottom:2px solid gray ;
+    width: 100%;
+    margin:2% 0;
+}
+.form-label
+{
+    
+    font-size:15px;
+    color:#302F23;
+}
+.btn
+{
+    margin-top:5%;
+    margin-bottom: 5%;
+    font-size: 15px;
+    color: white;
+    text-align: center;
+    width: 100%;
+    background-color:#302F23 ;
+    border-radius:2%;
+    border: none;
+    padding:15px;
+}
+
+.enroll-right
+{
+    position: absolute;
+    top:10%;
+    left:50%;
+}
+.section-title h2
+{
+    font-size:40px;
+    color: white;
+}
+.section-title p
+{
+    font-size:medium;
+    color: white;
+}
+.course
+{
+    margin-top: 5%;
+   
+    font-size: x-large;
+    color: black;
+}
+.course h2{
+    text-align: center;
+}
+.course-content
+{
+    display: flex;
+    margin:4% 6%;
+
+}
+.course-section p
+{
+      font-size: small;
+      color:#666670;
+      padding: 0;
+     
+}
+
+.course-meta
+{
+    font-size: medium;
+}
+.price
+{
+    padding-left: 60%;
+}
+.cta{
+   position: relative;
+}
+.text-content
+{
+    position:absolute;
+    left:10%;
+    top:10%;
+    width:400px;
+    background-color:#00B16A;
+    padding:10px 20px;
+}
